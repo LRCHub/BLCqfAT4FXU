@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "センチメンタルベリー",
+  "base_artist": "もな・れみ from STAR☆ANIS",
+  "createdAt": "2025-12-17T19:13:54.572800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "センチメンタルベリー",
+      "artist": "もな・れみ from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/01_センチメンタルベリー_もな・れみ_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "センチメンタルベリー",
+      "artist": "もな・れみ from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_センチメンタルベリー_もな・れみ_from_STAR☆ANIS.txt"
+    }
+  ]
+}
